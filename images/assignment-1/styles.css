@@ -35,3 +35,33 @@ header{
     border: none;
     border-radius: 10px;
 }
+/*  */
+main{
+    display: flex;
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 200px;
+}
+.title{
+    margin-left: 150px;
+    margin-top:300px ;
+    text-align: left;
+}
+.title-2{
+    font-size: 40px; 
+}
+.title-description-2{
+    font-size: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px; 
+}
+ul{
+    list-style-type:circle;
+
+}
+.img-1{
+    
+    align-items:center;
+    margin-left: 10px;
+}
